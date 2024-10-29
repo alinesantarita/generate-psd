@@ -2,9 +2,9 @@
   "name": "generate-psd",
   "version": "1.0.0",
   "description": "Projeto para gerar arquivos PSD a partir de um formulário HTML.",
-  "main": "server.js",
+  "main": "nodes.js",  // Altere 'server.js' para 'nodes.js'
   "scripts": {
-    "start": "node server.js"
+    "start": "node nodes.js"  // Altere 'server.js' para 'nodes.js'
   },
   "dependencies": {
     "express": "^4.17.3",
