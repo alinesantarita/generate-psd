@@ -4,7 +4,7 @@
   "description": "Projeto para gerar arquivos PSD a partir de um formulário HTML.", 
   "main": "nodes.js",                    
   "scripts": {
-    "start": "node nodes.js"              
+    "start": "yarn node nodes.js"              
   },
   "dependencies": {
     "express": "^4.17.3",                
